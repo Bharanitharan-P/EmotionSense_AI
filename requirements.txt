@@ -1,4 +1,6 @@
 tensorflow
+deepface
+tf-keras
 opencv-python
 mediapipe
 numpy
